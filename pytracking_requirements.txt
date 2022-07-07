@@ -1,0 +1,12 @@
+matplotlib
+pandas
+tqdm
+opencv-python
+visdom
+tb-nightly
+scikit-image
+tikzplotlib
+gdown
+simplejson
+boto3
+jpeg4py
